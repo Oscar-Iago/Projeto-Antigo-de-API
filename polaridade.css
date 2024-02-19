@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.menu {
+  width: 1100px;
+  max-width: 90%;
+  margin: 0 auto;
+  position: relative;
+}
+
+#logo {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  background-color: #26ABF5;
+  height: 70px;
+  vertical-align: middle;
+}
+
+#logo_image {
+  display: inline-block;
+  float: left;
+  width: 53px;
+  padding-top: 8px;
+}
+
+#Menu {
+ display: inline-block;
+ font-size: 12px;
+ line-height: 70px;
+ padding-left: 70px
+}
+
+#Menu a {
+  color: #fff;
+  font-weight: 400;
+  text-decoration: none;
+  margin-left: 15em;
+}
+
+#titulo{
+ text-align: center;
+ padding-bottom: 15px;
+}
+
+.textoprincipal{
+ padding-top: 100px;
+ padding-bottom: 300px;
+ margin-left: 150px;
+ margin-right: 150px;
+}
+
+#imgexp{
+ padding-top: 80px;
+ padding-left: 280px;
+}
+
+#rodape {
+background-color:#26ABF5;
+height: 100%;
+padding-bottom: 140px;
+
+}
+
+.redes {
+ background-color:#26ABF5;
+ text-align: center;
+ float: right;
+ padding-right: 480px;
+ padding-top: 100px;
+ padding-bottom: 80px;
+}
+
+.logos{
+ padding-top: 100px;
+ padding-left: 460px;
+ text-align: left;
+}
+
+#principal{
+ background-image: url("https://mcdn.wallpapersafari.com/medium/54/57/VFmTa6.png");
+ background-attachment: fixed;
+ padding-bottom: 1px;
+}
+
+#titulo{
+ color: white;
+}
+
+#texto{
+  color: white;
+}
